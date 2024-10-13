@@ -1,8 +1,12 @@
-# BrokenPixelBot
+# Social-Media-Downloader
 
-Telegram bot работает с Youtube, Spotify, Tiktok, X.com, Instagram, Facebook и Pinterest
+Telegram bot to download media from Youtube, Spotify, Tiktok, Twitter, Instagram, Facebook and Pinterest
 
-## Возможности
+## It took me a lot of time to make this bot, so please give it a star if you like it.
+
+Bot link: [Social-Media-Downloader](https://t.me/Social_Media_Downloaderr_Bot)
+
+## Features
 
 -   Download videos or audio from Youtube
 -   Download song from Spotify
@@ -14,4 +18,4 @@ Telegram bot работает с Youtube, Spotify, Tiktok, X.com, Instagram, Fac
 
 ## How to use
 
--   Soon
+-   Send a link to the bot and it will send you the media
